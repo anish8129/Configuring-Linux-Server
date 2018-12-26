@@ -78,4 +78,8 @@
 * $ nano routes.py; - change engine to postgresql://catalog:catalog@localhost/catalog  
 * $ sudo service apache2 restart 
 * add ip or url to google/facebook developer console  
-
+## Third-party Reasources
+* [Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
+* [Youtube](https://www.youtube.com)
+* [Udacity](https://www.udacity.com)
+* [Ask Ubuntu](https://askubuntu.com/)
